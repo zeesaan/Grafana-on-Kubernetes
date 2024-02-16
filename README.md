@@ -1,1 +1,1 @@
-# Grafana-on-Kubernetes
+# Prometheus-on-Kubernetes
